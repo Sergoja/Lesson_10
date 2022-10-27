@@ -19,4 +19,4 @@ def get_grade(grade):
 # except AssertionError:
 #     print("Неверно, проверьте функцию на разных значениях")
 # else:
-#     print("Все хорошо, все работает")
+# 
